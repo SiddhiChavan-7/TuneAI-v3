@@ -1,0 +1,2103 @@
+{
+  "playlists": {
+    "tuneai_k8yknsqsqy": [
+      {
+        "title": "Curated bollywood",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [],
+        "id": "8w4cuudv7ls",
+        "createdAt": "2026-03-24T17:34:56.603Z"
+      },
+      {
+        "title": "Curated electronic",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [],
+        "id": "785tzi7at9h",
+        "createdAt": "2026-03-24T17:34:46.305Z"
+      },
+      {
+        "title": "Focus Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [],
+        "id": "ohgxculdlh",
+        "createdAt": "2026-03-24T17:31:17.107Z"
+      },
+      {
+        "title": "Chill bollywood",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [],
+        "id": "452xn3wnx2h",
+        "createdAt": "2026-03-24T17:30:56.131Z"
+      },
+      {
+        "title": "Chill bollywood",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [],
+        "id": "uyhehew0hwe",
+        "createdAt": "2026-03-24T17:30:51.893Z"
+      },
+      {
+        "title": "Chill bollywood",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [],
+        "id": "dnohxeie9xp",
+        "createdAt": "2026-03-24T17:30:42.515Z"
+      }
+    ],
+    "AUTH_USER": [
+      {
+        "title": "Chill Bollywood",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "jo6iAkSoraY",
+            "title": "Tere Liye Song | Veer-Zaara | Shah Rukh Khan, Preity Zinta, Lata Mangeshkar, Roop Kumar, Madan Mohan",
+            "artist": "YRF",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/jo6iAkSoraY/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=jo6iAkSoraY",
+            "duration": 0,
+            "reason": "The classic and soothing melody of this song, combined with its Bollywood roots, make it a great fit for a chill playlist."
+          }
+        ],
+        "id": "13rnwnlx86ch",
+        "createdAt": "2026-03-26T08:10:12.341Z"
+      },
+      {
+        "title": "Chill Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "UfcAVejslrU",
+            "title": "Marconi Union - Weightless (Official Video)",
+            "artist": "JustMusicTV",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/UfcAVejslrU/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=UfcAVejslrU",
+            "duration": 0,
+            "reason": "Scientifically proven to reduce anxiety, perfect for deep relaxation and a chill mood."
+          },
+          {
+            "id": "7maJOI3QMu0",
+            "title": "Yiruma, (이루마) - River Flows in You",
+            "artist": "YirumaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/7maJOI3QMu0/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=7maJOI3QMu0",
+            "duration": 0,
+            "reason": "Soothing piano melodies that evoke a sense of calmness and serenity, ideal for a chill atmosphere."
+          },
+          {
+            "id": "WKU8DJzipW4",
+            "title": "Clair De Lune",
+            "artist": "Claude Debussy - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/WKU8DJzipW4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=WKU8DJzipW4",
+            "duration": 0,
+            "reason": "A gentle, dreamy piece of music that promotes relaxation and tranquility, perfectly aligning with the chill mood."
+          },
+          {
+            "id": "yIQd2Ya0Ziw",
+            "title": "Rainstorm Sounds for Relaxing, Focus or Deep Sleep | Nature White Noise | 8 Hour Video",
+            "artist": "Calm",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/yIQd2Ya0Ziw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=yIQd2Ya0Ziw",
+            "duration": 0,
+            "reason": "Calming sounds of nature that create a peaceful ambiance, helping to reduce stress and promote relaxation."
+          },
+          {
+            "id": "y8AWFf7EAc4",
+            "title": "Jeff Buckley - Hallelujah (Official Video - Live at Bearsville)",
+            "artist": "jeffbuckleyVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/y8AWFf7EAc4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=y8AWFf7EAc4",
+            "duration": 0,
+            "reason": "A soulful, mellow song that exudes a sense of calmness and introspection, suitable for a chill mood."
+          },
+          {
+            "id": "mvBLSJWk6HE",
+            "title": "Om Mani Padme Hum | Meditative Sound of Buddhist | Peaceful Chanting | Buddhist Mantra |",
+            "artist": "Essence of Universe",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/mvBLSJWk6HE/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=mvBLSJWk6HE",
+            "duration": 0,
+            "reason": "A soothing, spiritual chant that promotes relaxation and inner peace, perfectly capturing the essence of a chill vibe."
+          },
+          {
+            "id": "df-eLzao63I",
+            "title": "Wolfgang Amadeus Mozart - Piano Concerto No. 21 - Andante",
+            "artist": "poloshia",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/df-eLzao63I/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=df-eLzao63I",
+            "duration": 0,
+            "reason": "A beautiful, calming piece of music that showcases Mozart's mastery of creating soothing melodies, ideal for a chill atmosphere."
+          },
+          {
+            "id": "ghPcYqn0p4Y",
+            "title": "Sia - Breathe Me",
+            "artist": "SiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/ghPcYqn0p4Y/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=ghPcYqn0p4Y",
+            "duration": 0,
+            "reason": "A hauntingly beautiful song that promotes emotional release and relaxation, aligning with the chill mood."
+          },
+          {
+            "id": "4Tr0otuiQuU",
+            "title": "Beethoven - Moonlight Sonata (FULL)",
+            "artist": "andrea romano",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/4Tr0otuiQuU/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=4Tr0otuiQuU",
+            "duration": 0,
+            "reason": "A classic, soothing piece of music that evokes a sense of calmness and serenity, perfect for a chill atmosphere."
+          },
+          {
+            "id": "AIOAlaACuv4",
+            "title": "Tracy Chapman - Fast Car (Official Music Video)",
+            "artist": "Tracy Chapman",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/AIOAlaACuv4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=AIOAlaACuv4",
+            "duration": 0,
+            "reason": "A mellow, acoustic song that promotes relaxation and introspection, suitable for a chill mood."
+          },
+          {
+            "id": "TZCfydWF48c",
+            "title": "Antonio Vivaldi - Winter (Full) - The Four Seasons",
+            "artist": "avrilfan2213",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/TZCfydWF48c/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=TZCfydWF48c",
+            "duration": 0,
+            "reason": "A soothing, calming piece of music that showcases Vivaldi's mastery of creating peaceful melodies, ideal for a chill atmosphere."
+          },
+          {
+            "id": "Oextk-If8HQ",
+            "title": "Keane - Somewhere Only We Know (Official Music Video)",
+            "artist": "KeaneVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Oextk-If8HQ/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Oextk-If8HQ",
+            "duration": 0,
+            "reason": "A beautiful, mellow song that promotes relaxation and introspection, aligning with the chill mood."
+          },
+          {
+            "id": "2KlzPHnOgHM",
+            "title": "Electra",
+            "artist": "Airstream - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/2KlzPHnOgHM/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=2KlzPHnOgHM",
+            "duration": 0,
+            "reason": "A calming, atmospheric song that creates a sense of peace and relaxation, perfect for a chill vibe."
+          }
+        ],
+        "id": "bnwd84z0pnv",
+        "createdAt": "2026-03-26T08:09:57.215Z"
+      },
+      {
+        "title": "Im working on coding  Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "tAIiXRZNh9E",
+            "title": "Limitless Focus - 40Hz Gamma Binaural Beats, Brainwave Music for Super Concentration and Focus",
+            "artist": "Study Sonic Focus",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/tAIiXRZNh9E/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=tAIiXRZNh9E",
+            "duration": 0,
+            "reason": "A specially designed binaural beat track to boost concentration and productivity while coding."
+          },
+          {
+            "id": "uiMXGIG_DQo",
+            "title": "Coffee Shop Ambience | Cafe Background Noise for Study, Focus | White Noise, 카페 asmr, 백색소음",
+            "artist": "Winter Whale",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/uiMXGIG_DQo/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=uiMXGIG_DQo",
+            "duration": 0,
+            "reason": "A calming and stimulating background noise to simulate a productive coffee shop environment."
+          },
+          {
+            "id": "Xv1Yx3eFnEg",
+            "title": "Relaxing Background Guitar Music - meditate, focus, study, think",
+            "artist": "Ocb Relax",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Xv1Yx3eFnEg/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Xv1Yx3eFnEg",
+            "duration": 0,
+            "reason": "Soothing guitar melodies to create a peaceful atmosphere and help maintain focus."
+          },
+          {
+            "id": "qzyl0f3mRG0",
+            "title": "Jazz Beats [lofi jazz, jazzhop, lo-fi hip hop]",
+            "artist": "Settle",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/qzyl0f3mRG0/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=qzyl0f3mRG0",
+            "duration": 0,
+            "reason": "Mellow and uplifting instrumental hip hop beats to enhance coding productivity and creativity."
+          },
+          {
+            "id": "3NycM9lYdRI",
+            "title": "Relaxing Piano Music: Romantic Music, Beautiful Relaxing Music, Sleep Music, Stress Relief ★122",
+            "artist": "Soothing Relaxation",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/3NycM9lYdRI/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=3NycM9lYdRI",
+            "duration": 0,
+            "reason": "Calming piano music specifically composed to improve focus and mental clarity."
+          },
+          {
+            "id": "F1gK85IEeDI",
+            "title": "10 HOURS Morning Bird Songs and River Sounds for the Best Start of the Day - Morning River 4K UHD",
+            "artist": "Nature Soundscapes",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/F1gK85IEeDI/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=F1gK85IEeDI",
+            "duration": 0,
+            "reason": "An uplifting and refreshing ambient track to start the day with energy and motivation."
+          },
+          {
+            "id": "cu_vihKMWeA",
+            "title": "Synthwave Coding Mix – Feels Like 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 𝟏𝟗𝟖𝟕 Never Closed",
+            "artist": "Devs FM",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/cu_vihKMWeA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=cu_vihKMWeA",
+            "duration": 0,
+            "reason": "Energizing and futuristic electronic music to fuel coding sessions and stimulate problem-solving skills."
+          },
+          {
+            "id": "xsfyb1pStdw",
+            "title": "The DEEPEST Healing Sleep | 3.2Hz Delta Brain Waves | REM Sleep Music - Binaural Beats",
+            "artist": "SleepTube - Hypnotic Relaxation",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/xsfyb1pStdw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=xsfyb1pStdw",
+            "duration": 0,
+            "reason": "A targeted binaural beat track to enhance focus, attention, and mental processing speed."
+          },
+          {
+            "id": "edKj3hwlexg",
+            "title": "How to Stop YouTube Ads Waking You During Bedtime Stories and Sleep Meditations #sleepstories",
+            "artist": "Michelle's Sanctuary Stories for Sleep",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/edKj3hwlexg/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=edKj3hwlexg",
+            "duration": 0,
+            "reason": "A guided meditation session to train the mind and improve concentration, tailored for individuals who need to stay focused during coding."
+          },
+          {
+            "id": "Tmtfhud4cUE",
+            "title": "Upbeat Instrumental Work Music | Background Happy Energetic Relaxing Music for Working Fast &amp; Focus",
+            "artist": "Live Better Media",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Tmtfhud4cUE/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Tmtfhud4cUE",
+            "duration": 0,
+            "reason": "A lively and motivating instrumental track to maintain a positive and productive work atmosphere."
+          },
+          {
+            "id": "2DLnhdnSUVs",
+            "title": "Ludovico Einaudi - &quot;Elegy for the Arctic&quot; - Official Live (Greenpeace)",
+            "artist": "Ludovico Einaudi",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/2DLnhdnSUVs/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=2DLnhdnSUVs",
+            "duration": 0,
+            "reason": "Sophisticated and evocative instrumental music to inspire creativity, logic, and problem-solving skills."
+          },
+          {
+            "id": "t8OZPJfpcTM",
+            "title": "Lofi Beats for Programmer 📚 Coding Music 💻 Relaxing Music | Stress Relief",
+            "artist": "Lofi boost your mood",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/t8OZPJfpcTM/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=t8OZPJfpcTM",
+            "duration": 0,
+            "reason": "A mellow, atmospheric electronic track to provide a calming and thought-provoking backdrop for coding and development."
+          }
+        ],
+        "id": "0tj8czjb8w89",
+        "createdAt": "2026-03-26T08:05:42.839Z"
+      },
+      {
+        "title": "Late Night Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "4Tr0otuiQuU",
+            "title": "Beethoven - Moonlight Sonata (FULL)",
+            "artist": "andrea romano",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/4Tr0otuiQuU/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=4Tr0otuiQuU",
+            "duration": 0,
+            "reason": "The soft and calming melody of this piano sonata perfectly captures the essence of a late night mood."
+          },
+          {
+            "id": "WKU8DJzipW4",
+            "title": "Clair De Lune",
+            "artist": "Claude Debussy - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/WKU8DJzipW4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=WKU8DJzipW4",
+            "duration": 0,
+            "reason": "The dreamy and evocative quality of this piece creates a serene atmosphere ideal for a late night ambiance."
+          },
+          {
+            "id": "MV_3Dpw-BRY",
+            "title": "Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio)",
+            "artist": "Record Makers",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/MV_3Dpw-BRY/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=MV_3Dpw-BRY",
+            "duration": 0,
+            "reason": "The smooth and nostalgic sound of this synth-heavy track complements the quiet intimacy of a late night."
+          },
+          {
+            "id": "7maJOI3QMu0",
+            "title": "Yiruma, (이루마) - River Flows in You",
+            "artist": "YirumaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/7maJOI3QMu0/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=7maJOI3QMu0",
+            "duration": 0,
+            "reason": "The gentle and soothing melody of this piano piece provides a peaceful and calming experience for a late night."
+          },
+          {
+            "id": "y76K7qQ9Jx4",
+            "title": "Max Richter - Sleep",
+            "artist": "Classical music",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/y76K7qQ9Jx4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=y76K7qQ9Jx4",
+            "duration": 0,
+            "reason": "This eight-hour long piece is designed to help listeners relax and fall asleep, making it perfect for a late night mood."
+          },
+          {
+            "id": "3pXnO4tPDGA",
+            "title": "Jens Buchert - Nimbus",
+            "artist": "Jens Buchert",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/3pXnO4tPDGA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=3pXnO4tPDGA",
+            "duration": 0,
+            "reason": "The ambient and atmospheric soundscapes in this track create a sense of calm and serenity, ideal for a late night."
+          },
+          {
+            "id": "JAYb8ZyjzD0",
+            "title": "Sigur Rós - Hoppípolla  [Official Music Video - 4K]",
+            "artist": "Sigur Rós",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/JAYb8ZyjzD0/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=JAYb8ZyjzD0",
+            "duration": 0,
+            "reason": "The soothing and ethereal quality of this song provides a sense of tranquility and peace, perfect for a late night."
+          },
+          {
+            "id": "ghPcYqn0p4Y",
+            "title": "Sia - Breathe Me",
+            "artist": "SiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/ghPcYqn0p4Y/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=ghPcYqn0p4Y",
+            "duration": 0,
+            "reason": "The emotional and introspective nature of this song creates a sense of vulnerability and calm, suitable for a late night mood."
+          },
+          {
+            "id": "Zz-DJr1Qs54",
+            "title": "The Cranberries - Ode To My Family (Official Music Video)",
+            "artist": "TheCranberriesVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Zz-DJr1Qs54/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Zz-DJr1Qs54",
+            "duration": 0,
+            "reason": "The gentle and melancholic sound of this song provides a sense of comfort and nostalgia, perfect for a late night."
+          },
+          {
+            "id": "uzOdm9w3J94",
+            "title": "Tracy Chapman - Fast Car (Lyrics)",
+            "artist": "Cassiopeia",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/uzOdm9w3J94/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=uzOdm9w3J94",
+            "duration": 0,
+            "reason": "The soothing and introspective quality of this song creates a sense of calm and contemplation, ideal for a late night."
+          },
+          {
+            "id": "LCJblaUkkfc",
+            "title": "Radiohead - Street Spirit (Fade Out)",
+            "artist": "Radiohead",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/LCJblaUkkfc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=LCJblaUkkfc",
+            "duration": 0,
+            "reason": "The haunting and atmospheric sound of this song provides a sense of melancholy and introspection, suitable for a late night mood."
+          }
+        ],
+        "id": "zbyfo84r76s",
+        "createdAt": "2026-03-26T07:59:48.922Z"
+      },
+      {
+        "title": "Meditation Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "UfcAVejslrU",
+            "title": "Marconi Union - Weightless (Official Video)",
+            "artist": "JustMusicTV",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/UfcAVejslrU/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=UfcAVejslrU",
+            "duration": 0,
+            "reason": "Scientifically proven to reduce anxiety, perfect for deep meditation."
+          },
+          {
+            "id": "mvBLSJWk6HE",
+            "title": "Om Mani Padme Hum | Meditative Sound of Buddhist | Peaceful Chanting | Buddhist Mantra |",
+            "artist": "Essence of Universe",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/mvBLSJWk6HE/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=mvBLSJWk6HE",
+            "duration": 0,
+            "reason": "The soothing sound of singing bowls creates a calming atmosphere for meditation."
+          },
+          {
+            "id": "xsfyb1pStdw",
+            "title": "The DEEPEST Healing Sleep | 3.2Hz Delta Brain Waves | REM Sleep Music - Binaural Beats",
+            "artist": "SleepTube - Hypnotic Relaxation",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/xsfyb1pStdw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=xsfyb1pStdw",
+            "duration": 0,
+            "reason": "Helps to induce a deep state of relaxation and sleep."
+          },
+          {
+            "id": "UGWR5Bu8A6Q",
+            "title": "🎧 Guided Sleep Meditation - Pure Deep Relaxation",
+            "artist": "The Honest Guys - Meditations - Relaxation",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/UGWR5Bu8A6Q/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=UGWR5Bu8A6Q",
+            "duration": 0,
+            "reason": "A gentle and calming guided meditation to reduce stress and anxiety."
+          },
+          {
+            "id": "o8GrqUSdzi0",
+            "title": "Relaxing Music &amp; Rain Sounds - Beautiful Piano Music, Background Music, Sleep Music • You &amp; Me",
+            "artist": "Soothing Relaxation",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/o8GrqUSdzi0/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=o8GrqUSdzi0",
+            "duration": 0,
+            "reason": "The soothing sounds of nature create a peaceful ambiance for meditation."
+          },
+          {
+            "id": "zZOm0-kKZ-o",
+            "title": "Remove ALL Negative Energy, Chakra Balance: Purify &amp; Release Negative Emotions",
+            "artist": "Relax & Rejuvenate with Jason Stephenson",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/zZOm0-kKZ-o/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=zZOm0-kKZ-o",
+            "duration": 0,
+            "reason": "The calming sound of singing bowls helps to quiet the mind and focus on breath."
+          },
+          {
+            "id": "NmAHY_tg9Es",
+            "title": "Quick 7 Chakra Cleansing | 3 Minutes Per Chakra | Seed Mantra Chanting Meditation | Root to Crown",
+            "artist": "Meditative Mind",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/NmAHY_tg9Es/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=NmAHY_tg9Es",
+            "duration": 0,
+            "reason": "A soothing and calming track to balance the seven chakras and promote relaxation."
+          },
+          {
+            "id": "npy3ql94TpI",
+            "title": "Tibetan Healing Flute | Release Of Melatonin And Toxin | Eliminate Stress And Calm The Mind",
+            "artist": "Meditation Flute Music",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/npy3ql94TpI/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=npy3ql94TpI",
+            "duration": 0,
+            "reason": "The peaceful sound of the Tibetan flute creates a calming atmosphere for meditation."
+          },
+          {
+            "id": "TOWO7IrchyI",
+            "title": "Deep Alpha Binaural Beats 15 min Meditation &amp; Relaxation Brainwave Music",
+            "artist": "MusicMindMagic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/TOWO7IrchyI/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=TOWO7IrchyI",
+            "duration": 0,
+            "reason": "Helps to reduce stress and anxiety by inducing a state of deep relaxation."
+          },
+          {
+            "id": "XXY_X3MYWpU",
+            "title": "Shamanic Dream by Anugama",
+            "artist": "OpenSkyMusic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/XXY_X3MYWpU/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=XXY_X3MYWpU",
+            "duration": 0,
+            "reason": "A soothing and calming track to promote healing and relaxation."
+          },
+          {
+            "id": "dE_XVl7fwBQ",
+            "title": "1 HOUR Zen Music For Inner Balance, Stress Relief and Relaxation by Vyanah",
+            "artist": "Vyanah Music - For Meditation & Inner Balance",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/dE_XVl7fwBQ/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=dE_XVl7fwBQ",
+            "duration": 0,
+            "reason": "A peaceful and calming track to help focus the mind and promote relaxation."
+          },
+          {
+            "id": "PThQT1eMEog",
+            "title": "Reiki Music: emotional &amp; physical healing music, Healing reiki music, healing meditation music 33011",
+            "artist": "Nu Meditation Music",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/PThQT1eMEog/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=PThQT1eMEog",
+            "duration": 0,
+            "reason": "A soothing and calming track to promote relaxation and reduce stress."
+          }
+        ],
+        "id": "lsjtsucpui",
+        "createdAt": "2026-03-26T07:59:04.261Z"
+      },
+      {
+        "title": "Reacetly im going through brerkup and want to heal  Bollywood",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "Umqb9KENgmk",
+            "title": "&quot;Tum Hi Ho&quot; Aashiqui 2 Full Song With Lyrics | Aditya Roy Kapur, Shraddha Kapoor",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Umqb9KENgmk/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Umqb9KENgmk",
+            "duration": 0,
+            "reason": "A soulful and melancholic song that captures the pain of a breakup, resonating with the user's current emotional state."
+          },
+          {
+            "id": "jHNNMj5bNQw",
+            "title": "&quot;Kabira Full Song&quot; Yeh Jawaani Hai Deewani | Pritam | Ranbir Kapoor, Deepika Padukone",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/jHNNMj5bNQw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=jHNNMj5bNQw",
+            "duration": 0,
+            "reason": "A heartfelt and introspective track that explores the theme of lost love, aligning with the user's mood of healing after a breakup."
+          },
+          {
+            "id": "bzSTpdcs-EI",
+            "title": "Channa Mereya - Lyric Video | Ae Dil Hai Mushkil | Karan Johar | Ranbir | Anushka | Pritam | Arijit",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/bzSTpdcs-EI/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=bzSTpdcs-EI",
+            "duration": 0,
+            "reason": "A poignant and emotional song that expresses the yearning for a lost love, matching the user's current emotional vibe."
+          },
+          {
+            "id": "CaI0xNLpurM",
+            "title": "Aashayein - Iqbal | Naseeruddin Shah, Shreyas Talpade | KK &amp; Salim Merchant | Hindi Hit Songs",
+            "artist": "Tips Official",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/CaI0xNLpurM/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=CaI0xNLpurM",
+            "duration": 0,
+            "reason": "An uplifting and inspirational track that encourages the listener to move forward, perfect for the user's journey of healing and self-discovery."
+          },
+          {
+            "id": "jZi8TI050ec",
+            "title": "O Meri Jaan - Life In A Metro | Kangana Ranaut, Shilpa Shetty, Sharman | KK | Pritam",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/jZi8TI050ec/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=jZi8TI050ec",
+            "duration": 0,
+            "reason": "A soothing and melancholic song that explores the theme of lost love, providing a sense of comfort and solace for the user."
+          },
+          {
+            "id": "U2QNhsAgIIE",
+            "title": "KK | Dil Ibaadat Kar Raha Hai (Lyrical Video) | Emraan Hashmi | Soha Ali Khan | Pritam | Tum Mile",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/U2QNhsAgIIE/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=U2QNhsAgIIE",
+            "duration": 0,
+            "reason": "A soulful and introspective track that captures the pain of a breakup, resonating with the user's current emotional state and promoting healing."
+          },
+          {
+            "id": "a0-Vl44kLhA",
+            "title": "Khamoshiyan",
+            "artist": "Arijit Singh - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/a0-Vl44kLhA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=a0-Vl44kLhA",
+            "duration": 0,
+            "reason": "A hauntingly beautiful song that expresses the silence and emptiness after a breakup, aligning with the user's mood and providing a sense of catharsis."
+          },
+          {
+            "id": "Lxl_ISBf-QA",
+            "title": "Samjhawan",
+            "artist": "Arijit Singh - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Lxl_ISBf-QA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Lxl_ISBf-QA",
+            "duration": 0,
+            "reason": "A romantic and melancholic track that explores the theme of lost love, providing a sense of nostalgia and longing for the user."
+          },
+          {
+            "id": "2ltGXfmI6mk",
+            "title": "Arijit Singh | Muskurane Ki Wajah Tum Ho (Lyrical Video) Rajkummar Rao | Jeet Gannguli | CityLights",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/2ltGXfmI6mk/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=2ltGXfmI6mk",
+            "duration": 0,
+            "reason": "A soulful and uplifting song that encourages the listener to move forward and find happiness, perfect for the user's journey of healing and self-discovery."
+          },
+          {
+            "id": "i87UglWyjug",
+            "title": "Jeene Laga Hoon Video Song – Ramaiya Vastavaiya (2013) HD. by NiLL",
+            "artist": "Harunur Rashid",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/i87UglWyjug/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=i87UglWyjug",
+            "duration": 0,
+            "reason": "A romantic and introspective track that captures the pain of a breakup, resonating with the user's current emotional state and promoting healing."
+          },
+          {
+            "id": "U2V0TgWHrR0",
+            "title": "Pritam - Tujhko Jo Paaya Best Audio Song|Crook|Emraan Hashmi|Neha Sharma|Mohit Chauhan",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/U2V0TgWHrR0/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=U2V0TgWHrR0",
+            "duration": 0,
+            "reason": "A soulful and melancholic song that expresses the pain of a breakup, providing a sense of comfort and solace for the user."
+          },
+          {
+            "id": "M0fDhfeZ-is",
+            "title": "&#39;Dil Darbadar&#39; FULL AUDIO Song | PK | Ankit Tiwari | Aamir Khan, Anushka Sharma | T-series",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/M0fDhfeZ-is/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=M0fDhfeZ-is",
+            "duration": 0,
+            "reason": "A romantic and introspective track that explores the theme of lost love, aligning with the user's mood and promoting healing and self-discovery."
+          },
+          {
+            "id": "_qcKoppvCvo",
+            "title": "Sawan Aaya Hai Full Audio Song | Arijit Singh | Creature 3D",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/_qcKoppvCvo/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=_qcKoppvCvo",
+            "duration": 0,
+            "reason": "A soulful and uplifting song that encourages the listener to move forward and find happiness, perfect for the user's journey of healing and self-discovery."
+          },
+          {
+            "id": "4WB5y4DAcKE",
+            "title": "Main Rahoon Ya Na Rahoon Full AUDIO Song | Emraan Hashmi, Esha Gupta | Amaal Mallik, Armaan Malik",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/4WB5y4DAcKE/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=4WB5y4DAcKE",
+            "duration": 0,
+            "reason": "A romantic and melancholic track that captures the pain of a breakup, resonating with the user's current emotional state and promoting healing."
+          },
+          {
+            "id": "5c9iFQZE74E",
+            "title": "Hasi Ban Gaye - Ami Mishra | Kunaal Vermaa | KASYAP | VIBIE |Pseudo",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/5c9iFQZE74E/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=5c9iFQZE74E",
+            "duration": 0,
+            "reason": "A soulful and introspective song that expresses the pain of a breakup, providing a sense of comfort and solace for the user."
+          }
+        ],
+        "id": "w9pv0v5xws",
+        "createdAt": "2026-03-26T07:58:09.188Z"
+      },
+      {
+        "title": "Sad songs beacuse im breakup recently Bollywood",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "NPb9WIzIQsQ",
+            "title": "Tujhe Bhula Diya (Lyrics) - Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak",
+            "artist": "Unied Studios",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/NPb9WIzIQsQ/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=NPb9WIzIQsQ",
+            "duration": 0,
+            "reason": "A soulful and melancholic song that perfectly captures the pain of a breakup."
+          },
+          {
+            "id": "nmTp_esz_Q8",
+            "title": "Kabhi Alvida Naa Kehna - Lyrical Video | Shah Rukh Khan | Rani Mukherjee | Sonu Nigam | Alka Yagnik",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/nmTp_esz_Q8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=nmTp_esz_Q8",
+            "duration": 0,
+            "reason": "A heart-wrenching duet that conveys the longing and sadness after a separation."
+          },
+          {
+            "id": "nuNuaGSgOVA",
+            "title": "Nain Se Naino Ko Mila",
+            "artist": "Adnan Sami - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/nuNuaGSgOVA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=nuNuaGSgOVA",
+            "duration": 0,
+            "reason": "A poignant song that expresses the sorrow and regret of losing a loved one."
+          },
+          {
+            "id": "jZi8TI050ec",
+            "title": "O Meri Jaan - Life In A Metro | Kangana Ranaut, Shilpa Shetty, Sharman | KK | Pritam",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/jZi8TI050ec/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=jZi8TI050ec",
+            "duration": 0,
+            "reason": "A beautiful and emotional song that resonates with the pain of a breakup."
+          },
+          {
+            "id": "mFdIMZk6UHI",
+            "title": "Tere Liye (Jhankar)",
+            "artist": "Atif Aslam - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/mFdIMZk6UHI/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=mFdIMZk6UHI",
+            "duration": 0,
+            "reason": "A romantic and melancholic song that captures the essence of longing and yearning for a lost love."
+          },
+          {
+            "id": "CaI0xNLpurM",
+            "title": "Aashayein - Iqbal | Naseeruddin Shah, Shreyas Talpade | KK &amp; Salim Merchant | Hindi Hit Songs",
+            "artist": "Tips Official",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/CaI0xNLpurM/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=CaI0xNLpurM",
+            "duration": 0,
+            "reason": "A heartfelt song that conveys the hope and despair of moving on after a breakup."
+          },
+          {
+            "id": "a0-Vl44kLhA",
+            "title": "Khamoshiyan",
+            "artist": "Arijit Singh - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/a0-Vl44kLhA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=a0-Vl44kLhA",
+            "duration": 0,
+            "reason": "A soulful and introspective song that explores the silence and loneliness after a separation."
+          },
+          {
+            "id": "U2QNhsAgIIE",
+            "title": "KK | Dil Ibaadat Kar Raha Hai (Lyrical Video) | Emraan Hashmi | Soha Ali Khan | Pritam | Tum Mile",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/U2QNhsAgIIE/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=U2QNhsAgIIE",
+            "duration": 0,
+            "reason": "A beautiful and emotional song that captures the pain and longing of a lost love."
+          },
+          {
+            "id": "V7x8x3_zzQ4",
+            "title": "Tere Liye",
+            "artist": "Rahul Vaidya - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/V7x8x3_zzQ4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=V7x8x3_zzQ4",
+            "duration": 0,
+            "reason": "A poignant song that expresses the emptiness and sadness of living without a loved one."
+          },
+          {
+            "id": "-Hb2DeHvvEg",
+            "title": "&#39;&#39;Tujhe Bhula Diya&quot; (Full Song) Anjaana Anjaani | Ranbir Kapoor, Priyanka Chopra",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/-Hb2DeHvvEg/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=-Hb2DeHvvEg",
+            "duration": 0,
+            "reason": "A soulful and melancholic song that conveys the pain and regret of a breakup."
+          },
+          {
+            "id": "Lxl_ISBf-QA",
+            "title": "Samjhawan",
+            "artist": "Arijit Singh - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Lxl_ISBf-QA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Lxl_ISBf-QA",
+            "duration": 0,
+            "reason": "A romantic and emotional song that captures the essence of longing and yearning for a lost love."
+          },
+          {
+            "id": "2ltGXfmI6mk",
+            "title": "Arijit Singh | Muskurane Ki Wajah Tum Ho (Lyrical Video) Rajkummar Rao | Jeet Gannguli | CityLights",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/2ltGXfmI6mk/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=2ltGXfmI6mk",
+            "duration": 0,
+            "reason": "A beautiful and introspective song that explores the pain and sadness of a breakup."
+          },
+          {
+            "id": "GbiP2YnDt3A",
+            "title": "Suna Hai - Lyrical | Sanak | Vidyut J &amp; Rukmini M | Jubin Nautiyal | Jeet Gannguli | Rashmi Virag",
+            "artist": "Zee Music Company",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/GbiP2YnDt3A/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=GbiP2YnDt3A",
+            "duration": 0,
+            "reason": "A soulful and emotional song that conveys the longing and yearning for a lost love."
+          },
+          {
+            "id": "vYGw1V2NSik",
+            "title": "Dil Ke Paas (Indian Version) Lyrical Video Song |  Arijit Singh &amp; Tulsi Kumar | T-Series",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/vYGw1V2NSik/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=vYGw1V2NSik",
+            "duration": 0,
+            "reason": "A romantic and melancholic song that captures the essence of the pain and sadness of a breakup."
+          },
+          {
+            "id": "Umqb9KENgmk",
+            "title": "&quot;Tum Hi Ho&quot; Aashiqui 2 Full Song With Lyrics | Aditya Roy Kapur, Shraddha Kapoor",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Umqb9KENgmk/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Umqb9KENgmk",
+            "duration": 0,
+            "reason": "A beautiful and emotional song that conveys the pain and longing of a lost love."
+          }
+        ],
+        "id": "1v5t338pavw",
+        "createdAt": "2026-03-26T07:53:06.408Z"
+      },
+      {
+        "title": "Coffee , chilling with rain weather  Bollywood",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "LIUZgV2v7yg",
+            "title": "Tu Milta Hai Mujhe - Ruhani &amp; Paras | Raj Barman | Rashid Khan | Anjaan Sagri | Zee Music Originals",
+            "artist": "Zee Music Company",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/LIUZgV2v7yg/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=LIUZgV2v7yg",
+            "duration": 0,
+            "reason": "The soothing melody and gentle vocals evoke a sense of comfort, matching the cozy vibe of sipping coffee on a rainy day."
+          },
+          {
+            "id": "TmRgK-pXH9c",
+            "title": "Official Video: Humnava Mere Song | Jubin Nautiyal | Manoj Muntashir | Rocky - Shiv | Bhushan Kumar",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/TmRgK-pXH9c/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=TmRgK-pXH9c",
+            "duration": 0,
+            "reason": "This soulful song's calming atmosphere and romantic lyrics blend perfectly with the relaxing mood of a rainy day."
+          },
+          {
+            "id": "wN7KLsKxZAs",
+            "title": "Main Hoon Na | Shreya Ghoshal &amp; Sonu Nigam Live Performance In KBC 2024",
+            "artist": "Arijitian AS",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/wN7KLsKxZAs/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=wN7KLsKxZAs",
+            "duration": 0,
+            "reason": "The mellow and uplifting tone of this classic Bollywood song complements the warm feeling of enjoying coffee while listening to the sound of rain."
+          },
+          {
+            "id": "YuXLN23ZGQo",
+            "title": "O Saathi Lyrical Video | Baaghi 2 | Tiger Shroff | Disha Patani | Arko | Ahmed Khan Sajid Nadiadwala",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/YuXLN23ZGQo/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=YuXLN23ZGQo",
+            "duration": 0,
+            "reason": "The soothing guitar riffs and heartfelt vocals create a peaceful ambiance, ideal for a calming coffee break on a rainy day."
+          },
+          {
+            "id": "Umqb9KENgmk",
+            "title": "&quot;Tum Hi Ho&quot; Aashiqui 2 Full Song With Lyrics | Aditya Roy Kapur, Shraddha Kapoor",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Umqb9KENgmk/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Umqb9KENgmk",
+            "duration": 0,
+            "reason": "The gentle and emotive melody of this popular Bollywood song resonates with the cozy and intimate atmosphere of a rainy day spent with a cup of coffee."
+          },
+          {
+            "id": "a0-Vl44kLhA",
+            "title": "Khamoshiyan",
+            "artist": "Arijit Singh - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/a0-Vl44kLhA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=a0-Vl44kLhA",
+            "duration": 0,
+            "reason": "The song's soft and melancholic tone, combined with the sound of rain, creates a calming and contemplative mood, perfect for a coffee break."
+          },
+          {
+            "id": "2ltGXfmI6mk",
+            "title": "Arijit Singh | Muskurane Ki Wajah Tum Ho (Lyrical Video) Rajkummar Rao | Jeet Gannguli | CityLights",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/2ltGXfmI6mk/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=2ltGXfmI6mk",
+            "duration": 0,
+            "reason": "The soothing and uplifting quality of this song, with its gentle vocals and acoustic guitar, matches the warm and comforting feeling of sipping coffee on a rainy day."
+          },
+          {
+            "id": "1gwoGQhXvAo",
+            "title": "Baarish - Full Audio | Half Girlfriend | Arjun Kapoor &amp; Shraddha Kapoor |Ash King &amp; Shashaa Tirupati",
+            "artist": "Zee Music Company",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/1gwoGQhXvAo/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=1gwoGQhXvAo",
+            "duration": 0,
+            "reason": "The song's title, which means 'rain' in Hindi, and its calming melody, make it a perfect fit for a relaxing coffee break on a rainy day."
+          },
+          {
+            "id": "U2QNhsAgIIE",
+            "title": "KK | Dil Ibaadat Kar Raha Hai (Lyrical Video) | Emraan Hashmi | Soha Ali Khan | Pritam | Tum Mile",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/U2QNhsAgIIE/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=U2QNhsAgIIE",
+            "duration": 0,
+            "reason": "The soulful and emotive vocals, combined with the song's gentle melody, create a peaceful and introspective atmosphere, ideal for a calming coffee break."
+          },
+          {
+            "id": "g3icG9Zywew",
+            "title": "Pyaar Ki Yeh Kahani",
+            "artist": "Vishal - Shekhar - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/g3icG9Zywew/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=g3icG9Zywew",
+            "duration": 0,
+            "reason": "The song's soft and romantic tone, with its soothing vocals and gentle instrumentation, complements the cozy and intimate mood of a rainy day spent with a cup of coffee."
+          },
+          {
+            "id": "HIbzXaBdwZw",
+            "title": "Full Video: Kabhi Kabhi Aditi Zindagi | Jaane Tu Ya Jaane Na | A.R. Rahman | Rashid Ali",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/HIbzXaBdwZw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=HIbzXaBdwZw",
+            "duration": 0,
+            "reason": "The song's mellow and uplifting quality, with its blend of acoustic and orchestral elements, creates a warm and comforting atmosphere, perfect for a coffee break on a rainy day."
+          },
+          {
+            "id": "AX7t8ZwroHQ",
+            "title": "Lyrical: Kabhi Kabhi Aditi Zindagi | Jaane Tu Ya Jaane Na | A.R. Rahman | Rashid Ali",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/AX7t8ZwroHQ/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=AX7t8ZwroHQ",
+            "duration": 0,
+            "reason": "The song's gentle and introspective tone, with its soothing vocals and acoustic guitar, matches the calm and contemplative mood of a rainy day spent with a cup of coffee."
+          },
+          {
+            "id": "-Hb2DeHvvEg",
+            "title": "&#39;&#39;Tujhe Bhula Diya&quot; (Full Song) Anjaana Anjaani | Ranbir Kapoor, Priyanka Chopra",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/-Hb2DeHvvEg/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=-Hb2DeHvvEg",
+            "duration": 0,
+            "reason": "The song's soft and emotive melody, with its heartfelt vocals and gentle instrumentation, creates a peaceful and calming atmosphere, ideal for a relaxing coffee break."
+          },
+          {
+            "id": "N2cPyl83tkQ",
+            "title": "Ishq Wala Love |  SOTY | Alia Bhatt, Sidharth Malhotra, Varun Dhawan | Neeti Mohan | 4K",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/N2cPyl83tkQ/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=N2cPyl83tkQ",
+            "duration": 0,
+            "reason": "The song's gentle and uplifting quality, with its blend of acoustic and orchestral elements, complements the warm and comforting feeling of sipping coffee on a rainy day."
+          },
+          {
+            "id": "FxAG_11PzCk",
+            "title": "Full Video: Galliyan Song | Ek Villain | Ankit Tiwari | Sidharth Malhotra | Shraddha Kapoor",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/FxAG_11PzCk/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=FxAG_11PzCk",
+            "duration": 0,
+            "reason": "The song's soft and emotive melody, with its soothing vocals and gentle instrumentation, creates a calming and contemplative mood, perfect for a coffee break on a rainy day."
+          }
+        ],
+        "id": "9s36rjll5x",
+        "createdAt": "2026-03-26T07:52:05.363Z"
+      },
+      {
+        "title": "\"I am feeling really sad today and I just want to lie on the floor and stare at the ceiling Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [],
+        "id": "4qrhzesyq74",
+        "createdAt": "2026-03-25T16:07:48.430Z"
+      },
+      {
+        "title": "\"I am feeling really sad today and I just want to lie on the floor and stare at the ceiling Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [],
+        "id": "od1uv7wvrej",
+        "createdAt": "2026-03-25T16:07:41.172Z"
+      },
+      {
+        "title": "Study Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [],
+        "id": "9g0vzk3g38t",
+        "createdAt": "2026-03-25T15:58:15.983Z"
+      },
+      {
+        "title": "Study Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [],
+        "id": "k2ilqpuw379",
+        "createdAt": "2026-03-25T15:57:55.032Z"
+      },
+      {
+        "title": "Study Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [],
+        "id": "gfl6i0o06g9",
+        "createdAt": "2026-03-25T15:57:44.522Z"
+      },
+      {
+        "title": "Focus Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "GKHmmsgNOnQ",
+            "title": "Tohaar Didi Chamraan Ji Ke Rakhale Biya",
+            "artist": "Akhilesh Bedardi - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/GKHmmsgNOnQ/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=GKHmmsgNOnQ",
+            "duration": 0,
+            "reason": "This song's semi-classical and trending vibe matches the focus mood with its energetic and motivational beat."
+          },
+          {
+            "id": "qKDuSN07NrY",
+            "title": "🌻सरस्वती वन्दना गीत 2025 #withlyricsbhajan #saraswativandana",
+            "artist": "Bhajan list.308  ",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/qKDuSN07NrY/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=qKDuSN07NrY",
+            "duration": 0,
+            "reason": "The upbeat and lively tone of this song helps to create a focused atmosphere with its catchy rhythm."
+          },
+          {
+            "id": "SLP-wK6INas",
+            "title": "mere man ye bata de tu ❤️| Mitwa song dance | rohit mandrulkar choreography #dance #bollywooddance",
+            "artist": "indian dancer's gallery",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/SLP-wK6INas/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=SLP-wK6INas",
+            "duration": 0,
+            "reason": "This semi-classical dance cover promotes focus and concentration with its traditional yet modern melody."
+          },
+          {
+            "id": "X0x6QyOl7Kk",
+            "title": "MANWA LAAGE",
+            "artist": "Vishal - Shekhar - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/X0x6QyOl7Kk/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=X0x6QyOl7Kk",
+            "duration": 0,
+            "reason": "The easy semi-classical dance steps in this song encourage a focused and determined mindset."
+          },
+          {
+            "id": "mW67u_hWiSo",
+            "title": "Apsara Aali Full Song | Natarang | Sonalee Kulkarni, Ajay Atul | Marathi Songs",
+            "artist": "Zee Music Marathi",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/mW67u_hWiSo/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=mW67u_hWiSo",
+            "duration": 0,
+            "reason": "This song's traditional and cultural vibe helps to create a focused atmosphere with its soothing melody."
+          },
+          {
+            "id": "aEssRzuznmI",
+            "title": "#bhartnatyam #dance #classical #trending #givebirth #child",
+            "artist": "Nritya Sargam With Meera Mandola",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/aEssRzuznmI/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=aEssRzuznmI",
+            "duration": 0,
+            "reason": "The choreographed dance steps in this song promote focus, energy, and motivation."
+          },
+          {
+            "id": "oafxkMv4xnc",
+            "title": "Bairan – Animated Love Story | Banjaare (Official Video)",
+            "artist": "Banjaare",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/oafxkMv4xnc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=oafxkMv4xnc",
+            "duration": 0,
+            "reason": "The soothing and calming melody of this song promotes relaxation and focus."
+          },
+          {
+            "id": "DAy1I9ScdAA",
+            "title": "Yeh Ladka Hai Deewana: 4K Video | Shah Rukh Khan, Kajol |Udit Narayan| Alka Yagnik | KKHH",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/DAy1I9ScdAA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=DAy1I9ScdAA",
+            "duration": 0,
+            "reason": "This classic Bollywood song's energetic and lively vibe matches the focus mood with its motivational beat."
+          },
+          {
+            "id": "1onhvVnL8B8",
+            "title": "Gajendra Verma - Mann Mera (Original Version) | Official HD Music Video",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/1onhvVnL8B8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=1onhvVnL8B8",
+            "duration": 0,
+            "reason": "The romantic and uplifting tone of this song helps to create a focused and determined atmosphere."
+          },
+          {
+            "id": "fPii4kwD7Zc",
+            "title": "DARKHAAST Full Audio Song ||  SHIVAAY ||  Arijit Singh &amp; Sunidhi Chauhan | Ajay Devgn | T-Series",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/fPii4kwD7Zc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=fPii4kwD7Zc",
+            "duration": 0,
+            "reason": "This song's intense and emotional melody promotes focus and concentration with its powerful vocals."
+          },
+          {
+            "id": "LUgpPmj6nR8",
+            "title": "Navjot Ahuja - Khat (Official Audio) ",
+            "artist": "Navjot Ahuja",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/LUgpPmj6nR8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=LUgpPmj6nR8",
+            "duration": 0,
+            "reason": "This song's soothing and calming melody promotes relaxation and focus with its acoustic guitar rhythm."
+          },
+          {
+            "id": "vQchZx9MvJ8",
+            "title": "Ek Din Teri Raahon Mein - Naqaab | Javed Ali | Bobby Deol, Urvashi Sharrma, Akshaye | Pritam",
+            "artist": "Bollywood Songs",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/vQchZx9MvJ8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=vQchZx9MvJ8",
+            "duration": 0,
+            "reason": "The romantic and uplifting tone of this song helps to create a focused and determined atmosphere with its catchy melody."
+          },
+          {
+            "id": "LUgpPmj6nR8",
+            "title": "Navjot Ahuja - Khat (Official Audio) ",
+            "artist": "Navjot Ahuja",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/LUgpPmj6nR8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=LUgpPmj6nR8",
+            "duration": 0,
+            "reason": "This song's soothing and calming melody promotes relaxation and focus with its acoustic guitar rhythm and heartfelt vocals."
+          },
+          {
+            "id": "Cb6wuzOurPc",
+            "title": "Tum Se Hi Lyrcial | Jab We Met | Kareena Kapoor, Shahid Kapoor | Mohit Chauhan | Pritam",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Cb6wuzOurPc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Cb6wuzOurPc",
+            "duration": 0,
+            "reason": "This song's romantic and uplifting tone promotes focus, hope, and determination with its catchy and upbeat melody."
+          },
+          {
+            "id": "0L0QinW_A70",
+            "title": "Main Hoon Na Title Track Lyrical Video | Sonu Nigam, Shreya Ghosal | Shahrukh Khan, Sushmita Sen",
+            "artist": "T-Series Bollywood Classics",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/0L0QinW_A70/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=0L0QinW_A70",
+            "duration": 0,
+            "reason": "The energetic and lively vibe of this song matches the focus mood with its motivational and upbeat beat."
+          },
+          {
+            "id": "9yT4F8hzykY",
+            "title": "Chaiyya Chaiyya HD | Dil Se -1998 | Shahrukh Khan &amp; Malaika Arora | Sukhwinder Singh &amp; Sapna Awasthi",
+            "artist": "Rahat Studio",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/9yT4F8hzykY/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=9yT4F8hzykY",
+            "duration": 0,
+            "reason": "The upbeat and lively tone of this song helps to create a focused and energetic atmosphere with its catchy rhythm and motivational melody."
+          }
+        ],
+        "id": "vl7pzg09lk8",
+        "createdAt": "2026-03-25T15:54:49.196Z"
+      },
+      {
+        "title": "Road Trip Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "GKHmmsgNOnQ",
+            "title": "Tohaar Didi Chamraan Ji Ke Rakhale Biya",
+            "artist": "Akhilesh Bedardi - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/GKHmmsgNOnQ/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=GKHmmsgNOnQ",
+            "duration": 0,
+            "reason": "This song's energetic and uplifting vibe perfectly captures the excitement of a road trip."
+          },
+          {
+            "id": "qKDuSN07NrY",
+            "title": "🌻सरस्वती वन्दना गीत 2025 #withlyricsbhajan #saraswativandana",
+            "artist": "Bhajan list.308  ",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/qKDuSN07NrY/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=qKDuSN07NrY",
+            "duration": 0,
+            "reason": "The fun, lively atmosphere of this song makes it a great fit for a road trip playlist."
+          },
+          {
+            "id": "SLP-wK6INas",
+            "title": "mere man ye bata de tu ❤️| Mitwa song dance | rohit mandrulkar choreography #dance #bollywooddance",
+            "artist": "indian dancer's gallery",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/SLP-wK6INas/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=SLP-wK6INas",
+            "duration": 0,
+            "reason": "This semi-classical dance cover brings a unique, captivating energy to the road trip vibe."
+          },
+          {
+            "id": "DAy1I9ScdAA",
+            "title": "Yeh Ladka Hai Deewana: 4K Video | Shah Rukh Khan, Kajol |Udit Narayan| Alka Yagnik | KKHH",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/DAy1I9ScdAA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=DAy1I9ScdAA",
+            "duration": 0,
+            "reason": "The catchy, upbeat melody of this song is sure to get everyone in the car singing along on a road trip."
+          },
+          {
+            "id": "1onhvVnL8B8",
+            "title": "Gajendra Verma - Mann Mera (Original Version) | Official HD Music Video",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/1onhvVnL8B8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=1onhvVnL8B8",
+            "duration": 0,
+            "reason": "This song's blend of energetic and emotional moments makes it a great addition to a road trip playlist."
+          },
+          {
+            "id": "jZi8TI050ec",
+            "title": "O Meri Jaan - Life In A Metro | Kangana Ranaut, Shilpa Shetty, Sharman | KK | Pritam",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/jZi8TI050ec/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=jZi8TI050ec",
+            "duration": 0,
+            "reason": "The soothing, yet uplifting quality of this song provides a nice contrast to more energetic road trip tracks."
+          },
+          {
+            "id": "puKD3nkB1h4",
+            "title": "Ziddi Dil Full Video | MARY KOM | Feat Priyanka Chopra | Vishal Dadlani | HD",
+            "artist": "Zee Music Company",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/puKD3nkB1h4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=puKD3nkB1h4",
+            "duration": 0,
+            "reason": "This song's inspiring, motivational vibe is perfect for a road trip, where the open road can be a powerful catalyst for self-reflection."
+          },
+          {
+            "id": "dIVpJEKYNq4",
+            "title": "Arijit Singh - Darkhaast (Lyrics) Ft. Sunidhi Chauhan | Shivaay",
+            "artist": "Indian Harmony",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/dIVpJEKYNq4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=dIVpJEKYNq4",
+            "duration": 0,
+            "reason": "The emotional, heartfelt quality of this song adds depth and complexity to the road trip playlist."
+          },
+          {
+            "id": "bP8ATWCvqzw",
+            "title": "Anuv Jain X Lost Stories - Arz Kiya Hai (Official Video) | Coke Studio Bharat",
+            "artist": "Coke Studio India ",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/bP8ATWCvqzw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=bP8ATWCvqzw",
+            "duration": 0,
+            "reason": "This song's soulful, introspective atmosphere makes it a great fit for quieter moments on a road trip."
+          },
+          {
+            "id": "CaI0xNLpurM",
+            "title": "Aashayein - Iqbal | Naseeruddin Shah, Shreyas Talpade | KK &amp; Salim Merchant | Hindi Hit Songs",
+            "artist": "Tips Official",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/CaI0xNLpurM/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=CaI0xNLpurM",
+            "duration": 0,
+            "reason": "The hopeful, optimistic vibe of this song is sure to resonate with anyone on a road trip, looking to explore new horizons."
+          },
+          {
+            "id": "LUgpPmj6nR8",
+            "title": "Navjot Ahuja - Khat (Official Audio) ",
+            "artist": "Navjot Ahuja",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/LUgpPmj6nR8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=LUgpPmj6nR8",
+            "duration": 0,
+            "reason": "This song's unique, folk-inspired sound brings a fascinating, eclectic element to the road trip playlist."
+          },
+          {
+            "id": "4FC_WJjIsmk",
+            "title": "Ek Din Teri Raahon Mein Lyrical - Naqaab | Javed Ali | Bobby Deol, Urvashi Sharrma, Akshaye | Pritam",
+            "artist": "Tips Official",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/4FC_WJjIsmk/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=4FC_WJjIsmk",
+            "duration": 0,
+            "reason": "The romantic, nostalgic quality of this song provides a nice change of pace on a road trip, where the scenery is constantly changing."
+          },
+          {
+            "id": "Y7z-z79mBvc",
+            "title": "Chinnama Chilakamma",
+            "artist": "A. R. Rahman - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Y7z-z79mBvc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Y7z-z79mBvc",
+            "duration": 0,
+            "reason": "This song's lively, energetic vibe is sure to get everyone in the car moving and grooving on a road trip."
+          },
+          {
+            "id": "X0x6QyOl7Kk",
+            "title": "MANWA LAAGE",
+            "artist": "Vishal - Shekhar - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/X0x6QyOl7Kk/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=X0x6QyOl7Kk",
+            "duration": 0,
+            "reason": "The beautiful, semi-classical sound of this song adds a touch of elegance and sophistication to the road trip playlist."
+          },
+          {
+            "id": "mW67u_hWiSo",
+            "title": "Apsara Aali Full Song | Natarang | Sonalee Kulkarni, Ajay Atul | Marathi Songs",
+            "artist": "Zee Music Marathi",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/mW67u_hWiSo/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=mW67u_hWiSo",
+            "duration": 0,
+            "reason": "This song's captivating, enchanting quality makes it a great fit for a road trip, where the journey is just as important as the destination."
+          },
+          {
+            "id": "ntC3sO-VeJY",
+            "title": "Ghar More Pardesiya - Full Video| Kalank | Varun, Alia &amp; Madhuri| Shreya &amp; Vaishali| Pritam| Amitabh",
+            "artist": "Zee Music Company",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/ntC3sO-VeJY/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=ntC3sO-VeJY",
+            "duration": 0,
+            "reason": "The traditional, folk-inspired sound of this song brings a unique, cultural element to the road trip playlist."
+          },
+          {
+            "id": "oafxkMv4xnc",
+            "title": "Bairan – Animated Love Story | Banjaare (Official Video)",
+            "artist": "Banjaare",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/oafxkMv4xnc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=oafxkMv4xnc",
+            "duration": 0,
+            "reason": "This song's haunting, introspective atmosphere makes it a great fit for quieter moments on a road trip, where reflection and self-discovery are key."
+          },
+          {
+            "id": "S1aQhVUy_9g",
+            "title": "A.R Rahman Maahi Ve Full Song (Audio) Highway | Alia Bhatt, Randeep Hooda | Imtiaz Ali",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/S1aQhVUy_9g/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=S1aQhVUy_9g",
+            "duration": 0,
+            "reason": "This song's energetic, uplifting vibe is perfect for a road trip, where the open road stretches out before you like a promise of adventure."
+          },
+          {
+            "id": "RJD1fQ15I9Y",
+            "title": "Lyrical: Khuda Jaane Song with Lyrics | Bachna Ae Haseeno | Anvita Dutt Guptan | Vishal and Shekhar",
+            "artist": "YRF",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/RJD1fQ15I9Y/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=RJD1fQ15I9Y",
+            "duration": 0,
+            "reason": "The romantic, nostalgic quality of this song provides a nice change of pace on a road trip, where the scenery is constantly changing."
+          },
+          {
+            "id": "wN7KLsKxZAs",
+            "title": "Main Hoon Na | Shreya Ghoshal &amp; Sonu Nigam Live Performance In KBC 2024",
+            "artist": "Arijitian AS",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/wN7KLsKxZAs/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=wN7KLsKxZAs",
+            "duration": 0,
+            "reason": "This song's catchy, upbeat melody is sure to get everyone in the car singing along on a road trip."
+          },
+          {
+            "id": "T94PHkuydcw",
+            "title": "ROCKSTAR: Kun Faya Kun (Full Video Song) | Ranbir Kapoor | A.R. Rahman, Javed Ali, Mohit Chauhan",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/T94PHkuydcw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=T94PHkuydcw",
+            "duration": 0,
+            "reason": "The spiritual, uplifting quality of this song makes it a great fit for a road trip, where the journey is just as important as the destination."
+          },
+          {
+            "id": "qaMQNwBhghA",
+            "title": "Jiya Jale",
+            "artist": "Lata Mangeshkar - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/qaMQNwBhghA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=qaMQNwBhghA",
+            "duration": 0,
+            "reason": "This song's beautiful, enchanting sound adds a touch of elegance and sophistication to the road trip playlist."
+          },
+          {
+            "id": "Cb6wuzOurPc",
+            "title": "Tum Se Hi Lyrcial | Jab We Met | Kareena Kapoor, Shahid Kapoor | Mohit Chauhan | Pritam",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Cb6wuzOurPc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Cb6wuzOurPc",
+            "duration": 0,
+            "reason": "The romantic, introspective quality of this song provides a nice contrast to more energetic road trip tracks."
+          },
+          {
+            "id": "56ZzM4mz4yY",
+            "title": "&#39;Dil Dhadakne Do&#39; Title Song (Full VIDEO) | Priyanka Chopra, Farhan Akhtar",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/56ZzM4mz4yY/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=56ZzM4mz4yY",
+            "duration": 0,
+            "reason": "This song's energetic, uplifting vibe is perfect for a road trip, where the open road stretches out before you like a promise of adventure."
+          },
+          {
+            "id": "i8cm_ide9EY",
+            "title": "Ude jab jab zulfen teri Teri (HD) | Naya Daur | Mohammed Rafi | Asha Bhosle | Vyjayantimala",
+            "artist": "NH Hindi Songs",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/i8cm_ide9EY/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=i8cm_ide9EY",
+            "duration": 0,
+            "reason": "The classic, timeless quality of this song makes it a great fit for a road trip, where the journey is just as important as the destination."
+          },
+          {
+            "id": "jDn2bn7_YSM",
+            "title": "Vande Mataram - A.R. Rahman | Maa Tujhe Salaam | Official Video | Mehboob | Bharat Bala",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/jDn2bn7_YSM/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=jDn2bn7_YSM",
+            "duration": 0,
+            "reason": "This song's patriotic, uplifting vibe is sure to inspire and motivate anyone on a road trip, where the beauty of the country is on full display."
+          },
+          {
+            "id": "BrfRB6aTZlM",
+            "title": "A.R. Rahman - Roobaroo - Audio | Rang De Basanti | Aamir Khan | A. R. Rahman | Naresh Iyer",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/BrfRB6aTZlM/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=BrfRB6aTZlM",
+            "duration": 0,
+            "reason": "The beautiful, enchanting sound of this song adds a touch of elegance and sophistication to the road trip playlist."
+          }
+        ],
+        "id": "mhpg2epkzw",
+        "createdAt": "2026-03-25T15:53:42.234Z"
+      },
+      {
+        "title": "Meditation Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "ps8e52KV6Nw",
+            "title": "शिवस्तुती – कैलासराणा शिवचंद्र मोळी  | Shivstuti (Kailasrana Shivchandra Mauli) | Anuradha Paudwal",
+            "artist": "T-Series Bhakti Marathi",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/ps8e52KV6Nw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=ps8e52KV6Nw",
+            "duration": 0,
+            "reason": "This traditional Marathi devotional song creates a calming atmosphere perfect for meditation."
+          },
+          {
+            "id": "bP8ATWCvqzw",
+            "title": "Anuv Jain X Lost Stories - Arz Kiya Hai (Official Video) | Coke Studio Bharat",
+            "artist": "Coke Studio India ",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/bP8ATWCvqzw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=bP8ATWCvqzw",
+            "duration": 0,
+            "reason": "The mellow and emotive vocals in this song create a peaceful ambiance that complements the meditation mood."
+          },
+          {
+            "id": "Z2BDXmFQFXo",
+            "title": "Mitwa Dance Tutorial 🔥 | Natya Social Inspired Choreography | Easy Steps | #Shorts",
+            "artist": "Dance With Meditation",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Z2BDXmFQFXo/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Z2BDXmFQFXo",
+            "duration": 0,
+            "reason": "The gentle and melodic semi-classical dance music promotes relaxation and calmness."
+          },
+          {
+            "id": "bmyv0nRkDmc",
+            "title": "Aashayein Lyrical Song Video - Iqbal | Naseeruddin Shah, Shreyas Talpade | KK &amp; Salim Merchant",
+            "artist": "Tips Official",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/bmyv0nRkDmc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=bmyv0nRkDmc",
+            "duration": 0,
+            "reason": "The inspirational and soothing lyrics of this song contribute to a meditative state of mind."
+          },
+          {
+            "id": "LUgpPmj6nR8",
+            "title": "Navjot Ahuja - Khat (Official Audio) ",
+            "artist": "Navjot Ahuja",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/LUgpPmj6nR8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=LUgpPmj6nR8",
+            "duration": 0,
+            "reason": "The acoustic and heartfelt melody of this song provides a calming and introspective atmosphere."
+          },
+          {
+            "id": "1ekgOT5c3bY",
+            "title": "O Rangrez...  classical dance footwork ... bharatnatyam  #orangrez #classical #dancingworld",
+            "artist": "Natyamify ",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/1ekgOT5c3bY/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=1ekgOT5c3bY",
+            "duration": 0,
+            "reason": "The classical dance music and gentle instructions create a serene and peaceful environment."
+          },
+          {
+            "id": "puKD3nkB1h4",
+            "title": "Ziddi Dil Full Video | MARY KOM | Feat Priyanka Chopra | Vishal Dadlani | HD",
+            "artist": "Zee Music Company",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/puKD3nkB1h4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=puKD3nkB1h4",
+            "duration": 0,
+            "reason": "The motivational and uplifting song inspires a sense of determination and calm focus."
+          },
+          {
+            "id": "vQchZx9MvJ8",
+            "title": "Ek Din Teri Raahon Mein - Naqaab | Javed Ali | Bobby Deol, Urvashi Sharrma, Akshaye | Pritam",
+            "artist": "Bollywood Songs",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/vQchZx9MvJ8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=vQchZx9MvJ8",
+            "duration": 0,
+            "reason": "The soulful and melancholic melody of this song creates a contemplative and meditative atmosphere."
+          },
+          {
+            "id": "LMnJp_dSdnw",
+            "title": "DARKHAAST Full Video Song |  SHIVAAY | Arijit Singh &amp; Sunidhi Chauhan | Ajay Devgn | T-Series",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/LMnJp_dSdnw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=LMnJp_dSdnw",
+            "duration": 0,
+            "reason": "The romantic and emotive ballad promotes a sense of introspection and calmness."
+          },
+          {
+            "id": "f7qrT-Vd-C4",
+            "title": "Mann Mera (Official Song Video) - Table No.21|Tina Desai &amp; Rajeev K|Gajendra Verma",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/f7qrT-Vd-C4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=f7qrT-Vd-C4",
+            "duration": 0,
+            "reason": "The soothing and heartfelt melody of this song contributes to a peaceful and meditative state."
+          },
+          {
+            "id": "vlbFomrWy1Y",
+            "title": "Yeh Ladka Hai Deewana - Full Video |Shah Rukh Khan,Kajol |Udit Narayan,Alka Yagnik",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/vlbFomrWy1Y/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=vlbFomrWy1Y",
+            "duration": 0,
+            "reason": "The classic and romantic song creates a sense of nostalgia and calmness, perfect for meditation."
+          },
+          {
+            "id": "jZi8TI050ec",
+            "title": "O Meri Jaan - Life In A Metro | Kangana Ranaut, Shilpa Shetty, Sharman | KK | Pritam",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/jZi8TI050ec/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=jZi8TI050ec",
+            "duration": 0,
+            "reason": "The melodious and introspective song promotes a sense of self-reflection and calmness."
+          },
+          {
+            "id": "Y7z-z79mBvc",
+            "title": "Chinnama Chilakamma",
+            "artist": "A. R. Rahman - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Y7z-z79mBvc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Y7z-z79mBvc",
+            "duration": 0,
+            "reason": "The soothing and classical melody of this song creates a peaceful and calming atmosphere."
+          },
+          {
+            "id": "LUgpPmj6nR8",
+            "title": "Navjot Ahuja - Khat (Official Audio) ",
+            "artist": "Navjot Ahuja",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/LUgpPmj6nR8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=LUgpPmj6nR8",
+            "duration": 0,
+            "reason": "The acoustic and heartfelt melody of this song provides a calming and introspective atmosphere, perfect for meditation."
+          },
+          {
+            "id": "oafxkMv4xnc",
+            "title": "Bairan – Animated Love Story | Banjaare (Official Video)",
+            "artist": "Banjaare",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/oafxkMv4xnc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=oafxkMv4xnc",
+            "duration": 0,
+            "reason": "The soothing and classical melody of this song promotes a sense of relaxation and calm focus."
+          },
+          {
+            "id": "mW67u_hWiSo",
+            "title": "Apsara Aali Full Song | Natarang | Sonalee Kulkarni, Ajay Atul | Marathi Songs",
+            "artist": "Zee Music Marathi",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/mW67u_hWiSo/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=mW67u_hWiSo",
+            "duration": 0,
+            "reason": "The traditional and classical music creates a serene and peaceful environment, ideal for meditation."
+          },
+          {
+            "id": "EDHFYrC1Hlg",
+            "title": "छावा🔥🙇 || chhatrapati Sambhaji Maharaj rajyabhishek #youtubeshorts #shorts",
+            "artist": "शिवशंभु छत्रपती ",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/EDHFYrC1Hlg/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=EDHFYrC1Hlg",
+            "duration": 0,
+            "reason": "The traditional and classical music in this episode promotes a sense of relaxation and calm focus."
+          },
+          {
+            "id": "fpUiFPUfdXU",
+            "title": "Sholay theme harmonica tutorial",
+            "artist": "Harmony by Dr Doordarshi Singh",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/fpUiFPUfdXU/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=fpUiFPUfdXU",
+            "duration": 0,
+            "reason": "The soothing and classical melody of the harmonica creates a peaceful and calming atmosphere, ideal for meditation."
+          },
+          {
+            "id": "uEpewsDWHvA",
+            "title": "sholay harmonica lesson",
+            "artist": "Guitar crunch",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/uEpewsDWHvA/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=uEpewsDWHvA",
+            "duration": 0,
+            "reason": "The classical and melancholic melody of the harmonica promotes a sense of introspection and calmness."
+          },
+          {
+            "id": "Pf8CeGa7tII",
+            "title": "Snatam Kaur - Mul Mantra - Ek Ong Kar",
+            "artist": "Sikh Mantras",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Pf8CeGa7tII/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Pf8CeGa7tII",
+            "duration": 0,
+            "reason": "This traditional and soothing mantra creates a peaceful and calming atmosphere, perfect for meditation."
+          },
+          {
+            "id": "nwRoHC83wx0",
+            "title": "Gayatri Mantra 108 times Anuradha Paudwal I Full Audio Song I T-Series Bhakti Sagar",
+            "artist": "T-Series Bhakti Sagar",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/nwRoHC83wx0/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=nwRoHC83wx0",
+            "duration": 0,
+            "reason": "The classical and emotive melody of this mantra promotes a sense of relaxation and calm focus, ideal for meditation."
+          },
+          {
+            "id": "i5h72X4J-C0",
+            "title": "Waheguru Wahe Jio - Victory",
+            "artist": "Snatam Kaur - Topic",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/i5h72X4J-C0/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=i5h72X4J-C0",
+            "duration": 0,
+            "reason": "The soothing and heartfelt melody of this song creates a sense of introspection and calmness, perfect for meditation."
+          },
+          {
+            "id": "_mwqXnTEHSc",
+            "title": "A.R. Rahman - Tere Bina | Lyrical Song | Aishwarya Rai | Abhishek Bachchan | Guru | Gulzar",
+            "artist": "Sony Music India",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/_mwqXnTEHSc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=_mwqXnTEHSc",
+            "duration": 0,
+            "reason": "The romantic and emotive ballad promotes a sense of nostalgia and calmness, perfect for meditation."
+          },
+          {
+            "id": "T94PHkuydcw",
+            "title": "ROCKSTAR: Kun Faya Kun (Full Video Song) | Ranbir Kapoor | A.R. Rahman, Javed Ali, Mohit Chauhan",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/T94PHkuydcw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=T94PHkuydcw",
+            "duration": 0,
+            "reason": "The soothing and classical melody of this song creates a peaceful and calming atmosphere, ideal for meditation."
+          },
+          {
+            "id": "aiThAw7sPUI",
+            "title": "Piya Haji Ali पिया हाजी अली with Lyrics | A.R. Rahman | Muslim Devotional Songs | Islamic Songs",
+            "artist": "Tips Bhakti Prem",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/aiThAw7sPUI/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=aiThAw7sPUI",
+            "duration": 0,
+            "reason": "The traditional and emotive melody of this song promotes a sense of introspection and calmness, perfect for meditation."
+          }
+        ],
+        "id": "er3jgw0ea7h",
+        "createdAt": "2026-03-25T15:52:52.321Z"
+      },
+      {
+        "title": "Focus Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "bmyv0nRkDmc",
+            "title": "Aashayein Lyrical Song Video - Iqbal | Naseeruddin Shah, Shreyas Talpade | KK &amp; Salim Merchant",
+            "artist": "Tips Official",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/bmyv0nRkDmc/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=bmyv0nRkDmc",
+            "duration": 0,
+            "reason": "This song's inspirational tone can help induce focus, and it's from the user's library, making it a suitable choice."
+          },
+          {
+            "id": "LMnJp_dSdnw",
+            "title": "DARKHAAST Full Video Song |  SHIVAAY | Arijit Singh &amp; Sunidhi Chauhan | Ajay Devgn | T-Series",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/LMnJp_dSdnw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=LMnJp_dSdnw",
+            "duration": 0,
+            "reason": "This intense and emotive song can aid in concentration, and being from the user's library, it aligns well with their musical preferences."
+          },
+          {
+            "id": "puKD3nkB1h4",
+            "title": "Ziddi Dil Full Video | MARY KOM | Feat Priyanka Chopra | Vishal Dadlani | HD",
+            "artist": "Zee Music Company",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/puKD3nkB1h4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=puKD3nkB1h4",
+            "duration": 0,
+            "reason": "This energetic song can help increase focus and motivation, and it's from the user's library, fitting their vibe."
+          },
+          {
+            "id": "bP8ATWCvqzw",
+            "title": "Anuv Jain X Lost Stories - Arz Kiya Hai (Official Video) | Coke Studio Bharat",
+            "artist": "Coke Studio India ",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/bP8ATWCvqzw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=bP8ATWCvqzw",
+            "duration": 0,
+            "reason": "The soothing melody of this song can create a focused environment, and it's directly from the user's library, making it a great fit."
+          },
+          {
+            "id": "LUgpPmj6nR8",
+            "title": "Navjot Ahuja - Khat (Official Audio) ",
+            "artist": "Navjot Ahuja",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/LUgpPmj6nR8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=LUgpPmj6nR8",
+            "duration": 0,
+            "reason": "This song's calm and introspective nature can aid in focus, and being from the user's library, it's a suitable addition to the playlist."
+          },
+          {
+            "id": "1ekgOT5c3bY",
+            "title": "O Rangrez...  classical dance footwork ... bharatnatyam  #orangrez #classical #dancingworld",
+            "artist": "Natyamify ",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/1ekgOT5c3bY/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=1ekgOT5c3bY",
+            "duration": 0,
+            "reason": "This song's semi-classical dance steps and focused melody make it a great fit for the user's focus vibe, and it's directly from their library."
+          }
+        ],
+        "id": "epr68jmji9g",
+        "createdAt": "2026-03-25T15:28:08.053Z"
+      },
+      {
+        "title": "Late Night Vibes",
+        "description": "A custom artificial intelligence playlist tailored directly to your vibe.",
+        "songs": [
+          {
+            "id": "Mr1wBprAFkU",
+            "title": "Footwork on Oh rangrez ❤️ || Isha govind X promoting_artists",
+            "artist": "promoting_artists",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/Mr1wBprAFkU/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=Mr1wBprAFkU",
+            "duration": 0,
+            "reason": "This song's easy semi-classical dance steps and soothing melody make it a perfect fit for the late-night vibe, coming from the user's liked songs."
+          },
+          {
+            "id": "vlbFomrWy1Y",
+            "title": "Yeh Ladka Hai Deewana - Full Video |Shah Rukh Khan,Kajol |Udit Narayan,Alka Yagnik",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/vlbFomrWy1Y/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=vlbFomrWy1Y",
+            "duration": 0,
+            "reason": "This classic Bollywood song from the user's library brings a touch of nostalgic romance to the late-night playlist."
+          },
+          {
+            "id": "f7qrT-Vd-C4",
+            "title": "Mann Mera (Official Song Video) - Table No.21|Tina Desai &amp; Rajeev K|Gajendra Verma",
+            "artist": "SonyMusicIndiaVEVO",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/f7qrT-Vd-C4/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=f7qrT-Vd-C4",
+            "duration": 0,
+            "reason": "With its soulful melody and heartfelt lyrics, this song from the user's library resonates with the emotional depth of a late-night mood."
+          },
+          {
+            "id": "LMnJp_dSdnw",
+            "title": "DARKHAAST Full Video Song |  SHIVAAY | Arijit Singh &amp; Sunidhi Chauhan | Ajay Devgn | T-Series",
+            "artist": "T-Series",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/LMnJp_dSdnw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=LMnJp_dSdnw",
+            "duration": 0,
+            "reason": "This mesmerizing duet from the user's library, with Arijit Singh's and Sunidhi Chauhan's powerful vocals, adds a layer of intense emotion to the late-night vibe."
+          },
+          {
+            "id": "bP8ATWCvqzw",
+            "title": "Anuv Jain X Lost Stories - Arz Kiya Hai (Official Video) | Coke Studio Bharat",
+            "artist": "Coke Studio India ",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/bP8ATWCvqzw/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=bP8ATWCvqzw",
+            "duration": 0,
+            "reason": "This soul-stirring song, although not from the user's library, is a deeply complementary addition that enhances the late-night mood with its heartfelt, melancholic tone."
+          },
+          {
+            "id": "vQchZx9MvJ8",
+            "title": "Ek Din Teri Raahon Mein - Naqaab | Javed Ali | Bobby Deol, Urvashi Sharrma, Akshaye | Pritam",
+            "artist": "Bollywood Songs",
+            "album": "YouTube",
+            "image": "https://i.ytimg.com/vi/vQchZx9MvJ8/hqdefault.jpg",
+            "preview": null,
+            "youtubeUrl": "https://www.youtube.com/watch?v=vQchZx9MvJ8",
+            "duration": 0,
+            "reason": "As a romantic and melancholic song from the user's library, it fits perfectly into the late-night vibe, evoking a sense of longing and introspection."
+          }
+        ],
+        "id": "us462nk8hrt",
+        "createdAt": "2026-03-25T15:26:42.231Z"
+      }
+    ]
+  }
+}
