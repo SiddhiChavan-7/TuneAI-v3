@@ -2,6 +2,7 @@ const express = require('express');
 const cors    = require('cors');
 const https   = require('https');
 require('dotenv').config();
+const ytSearch = require('yt-search');
 
 const { fixSpellingAndSearch, generateSuggestions, generatePlaylistFromVibe } = require('./claude');
 const { savePinnedSong, getPinnedSongs, removePinnedSong, savePlaylist, getPlaylists } = require('./dynamo');
@@ -53,32 +54,39 @@ app.get('/auth/callback', async (req, res) => {
 });
 
 // ── YouTube Search Helper ────────────────────────────────────────────────
+const searchCache = new Map();
+const CACHE_TTL = 1000 * 60 * 15; // 15 minutes cache
+
 async function youtubeSearch(query, token, limit = 10) {
+  const cacheKey = `${query.toLowerCase().trim()}_${limit}`;
+  const now = Date.now();
+  
+  if (searchCache.has(cacheKey)) {
+    const cached = searchCache.get(cacheKey);
+    if (now - cached.timestamp < CACHE_TTL) {
+      return cached.data;
+    }
+  }
+
   try {
-    const tempClient = new google.auth.OAuth2();
-    tempClient.setCredentials({ access_token: token });
-    const youtube = google.youtube({ version: 'v3', auth: tempClient });
+    const r = await ytSearch(query + ' official audio');
+    const videos = r.videos.slice(0, limit);
     
-    const searchRes = await youtube.search.list({
-      part: 'snippet',
-      q: query + ' official audio -"playlist" -"mix" -"jukebox" -"full album"',
-      type: 'video',
-      videoCategoryId: '10',
-      maxResults: limit
-    });
-    
-    return (searchRes.data.items || []).map(item => ({
-      id: item.id.videoId,
-      title: item.snippet.title,
-      artist: item.snippet.channelTitle,
+    const result = videos.map(item => ({
+      id: item.videoId,
+      title: item.title,
+      artist: item.author.name,
       album: 'YouTube',
-      image: item.snippet.thumbnails.high?.url || item.snippet.thumbnails.default?.url,
+      image: item.thumbnail,
       preview: null,
-      youtubeUrl: `https://www.youtube.com/watch?v=${item.id.videoId}`,
-      duration: 0
+      youtubeUrl: item.url,
+      duration: item.seconds
     }));
+    
+    searchCache.set(cacheKey, { data: result, timestamp: now });
+    return result;
   } catch (err) {
-    console.error('YouTube Search Error:', err.message);
+    console.error('yt-search Error:', err.message);
     return [];
   }
 }
@@ -91,7 +99,26 @@ app.get('/search', async (req, res) => {
 
     console.log('🔍 Searching:', q);
 
-    let tracks = await youtubeSearch(q, token, 10);
+    // Pull 30 results for a deep cache pool
+    let allTracks = await youtubeSearch(q, token, 30);
+    let tracks = [];
+
+    if (allTracks.length > 2) {
+      // Keep the top 2 most relevant videos at the top (so if you search a specific song, you get the official track)
+      const topTracks = allTracks.slice(0, 2);
+      const restTracks = allTracks.slice(2);
+      
+      // Shuffle the remaining 28 tracks
+      for (let i = restTracks.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [restTracks[i], restTracks[j]] = [restTracks[j], restTracks[i]];
+      }
+      
+      // Combine and pick 10
+      tracks = [...topTracks, ...restTracks].slice(0, 10);
+    } else {
+      tracks = allTracks;
+    }
 
     let didYouMean = null;
     if (tracks.length < 2) {
@@ -99,7 +126,19 @@ app.get('/search', async (req, res) => {
       const fixed = await fixSpellingAndSearch(q);
       if (fixed && fixed !== q) {
         didYouMean = fixed;
-        tracks     = await youtubeSearch(fixed, token, 10);
+        // Same logic for fixed query
+        const fixedTracksAll = await youtubeSearch(fixed, token, 30);
+        if (fixedTracksAll.length > 2) {
+          const topTracks = fixedTracksAll.slice(0, 2);
+          const restTracks = fixedTracksAll.slice(2);
+          for (let i = restTracks.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [restTracks[i], restTracks[j]] = [restTracks[j], restTracks[i]];
+          }
+          tracks = [...topTracks, ...restTracks].slice(0, 10);
+        } else {
+          tracks = fixedTracksAll;
+        }
       }
     }
 
@@ -133,14 +172,20 @@ app.get('/suggestions', async (req, res) => {
         : trendingQueries;
     }
 
-    const results = await Promise.all(queries.slice(0, 5).map(q => youtubeSearch(q, token, 4)));
-    const allTracks = [...new Map(
+    const results = await Promise.all(queries.slice(0, 5).map(q => youtubeSearch(q, token, 15)));
+    let allTracks = [...new Map(
       results.flat()
         .filter(t => !pinnedSongs.find(p => p.id === t.id))
         .map(t => [t.id, t])
-    ).values()].slice(0, 20);
+    ).values()];
 
-    res.json({ tracks: allTracks, basedOn: pinnedSongs.length >= 2 ? 'pinned' : 'trending' });
+    // Randomize (shuffle) the results before returning them
+    for (let i = allTracks.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [allTracks[i], allTracks[j]] = [allTracks[j], allTracks[i]];
+    }
+
+    res.json({ tracks: allTracks.slice(0, 20), basedOn: pinnedSongs.length >= 2 ? 'pinned' : 'trending' });
   } catch (err) {
     console.error('❌ /suggestions error:', err.message);
     res.status(500).json({ error: err.message });
@@ -210,20 +255,21 @@ app.post('/generate', async (req, res) => {
       throw new Error("AI could not extract enough context to generate music.");
     }
 
-    // Execute searches sequentially with a slight delay to prevent YouTube API Rate Limiting (403/429)
-    const tracks = [];
-    for (const sg of suggestedSongs) {
+    // Execute searches concurrently using Promise.all for speed
+    const searchPromises = suggestedSongs.map(async (sg) => {
       const q = `${sg.title} ${sg.artist}`;
       const searchRes = await youtubeSearch(q, token, 1);
       if (searchRes && searchRes.length > 0) {
-        tracks.push({
+        return {
           ...searchRes[0],
           reason: sg.reason // Attach the AI's reason
-        });
+        };
       }
-      // 100ms artificial delay to protect the API
-      await new Promise(r => setTimeout(r, 100));
-    }
+      return null;
+    });
+
+    const results = await Promise.all(searchPromises);
+    const tracks = results.filter(t => t !== null);
 
     if (tracks.length === 0) {
       throw new Error("YouTube API Quota Exceeded. You have run out of daily free queries.");
